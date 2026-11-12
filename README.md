@@ -4,8 +4,10 @@ Site temporaire de la chaîne « Rentrer chez soi » : une page d'accueil et les
 Fait le 12 novembre 2026. HTML et CSS écrits à la main, sans framework, sans JavaScript, sans
 cookie ni mesure d'audience (donc pas de bandeau de consentement).
 
-**Rien n'est en ligne.** Le dossier a un dépôt git local, sans dépôt GitHub, sans push, et les DNS
-de Spaceship n'ont pas été touchés. La mise en ligne se fait seulement sur ordre de Pierre.
+**État au 12 novembre 2026** : dépôt `Pierre-TROCHET/rentrerchezsoi-site` créé et poussé, GitHub
+Pages activé (branche `main`, racine, domaine `rentrerchezsoi.com`). **Reste à faire par Pierre :**
+les enregistrements DNS chez Spaceship (étape 3 ci-dessous), puis « Enforce HTTPS » (étape 4).
+Comme pour scancam.app, on ne pousse rien sans son ordre (le mot « sauvegarde »).
 
 ## Ce qu'il y a dans le dossier
 
