@@ -34,13 +34,15 @@ Elle refait la maison, les icônes et l'image de partage (il faut `ffmpeg`, déj
 Si les nouveaux fichiers ont d'autres noms, changer les deux noms en haut de `images.js`.
 L'image de partage est le centre de la bannière YouTube : le dessin et le nom doivent y être centrés.
 
-## Avant la mise en ligne
+## Mentions légales
 
-1. **Mentions légales** : remplir les deux champs « À compléter » de `mentions-legales.html`
-   (SIRET et adresse de l'éditeur). La loi (LCEN, article 6) demande, pour un professionnel, son
-   nom, son adresse et son numéro d'immatriculation. Si Pierre ne veut pas publier son adresse
-   personnelle, il peut prendre une adresse de domiciliation.
-2. **Adresse de contact** : vérifier que `contact@rentrerchezsoi.com` reçoit bien le courrier.
+Décision du 12 novembre 2026 : le site est édité **à titre non professionnel** (il ne vend rien,
+n'a pas de publicité). La loi (LCEN, article 6) permet alors de ne publier que le nom de l'éditeur
+et celui de l'hébergeur : ni adresse, ni SIRET.
+
+**Le jour où le site vendra quelque chose** (une app, un abonnement, des liens affiliés, une
+formation), il faudra ajouter dans `mentions-legales.html` l'adresse (domicile ou domiciliation),
+un téléphone et le SIRET de l'entreprise individuelle (LCEN, articles 6 et 19).
 
 ## Mettre en ligne (seulement sur ordre de Pierre)
 
